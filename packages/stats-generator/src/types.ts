@@ -45,6 +45,16 @@ export interface CIStats {
   ssrSamples?: number
   ssrBodySizeKb?: number
   ssrDuplicationFactor?: number
+  // Dependency stats (from e18e analysis)
+  prodDependencies?: number
+  devDependencies?: number
+  duplicateDependencies?: number
+  depInstallSize?: number
+  e18eMessages?: Array<{
+    severity: string
+    message: string
+    fixableBy?: string
+  }>
 }
 
 export interface InstallStats {
@@ -71,14 +81,6 @@ export interface FrameworkStats extends CIStats {
   package?: string
   type?: string
   order?: number
-  prodDependencies?: number
-  devDependencies?: number
-  duplicateDependencies?: number
-  ssrOpsPerSec?: number
-  ssrAvgLatencyMs?: number
-  ssrSamples?: number
-  ssrBodySizeKb?: number
-  ssrDuplicationFactor?: number
   isFocused?: boolean
 }
 
