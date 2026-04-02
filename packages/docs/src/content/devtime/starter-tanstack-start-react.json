@@ -9,28 +9,28 @@
   "coldBuildTimeMs": 9098,
   "warmBuildTimeMs": 8359,
   "buildOutputSize": 2146304,
-  "timingMeasuredAt": "2026-03-08T00:31:57.171Z",
+  "timingMeasuredAt": "2026-04-02T22:23:20.842Z",
   "runner": "ubuntu-latest",
-  "nodeModulesSize": 246169600,
-  "nodeModulesSizeProdOnly": 211685376,
+  "nodeModulesSize": 246202368,
+  "nodeModulesSizeProdOnly": 211718144,
   "frameworkVersion": "1.145.3",
   "avgInstallTimeMs": 3204.4,
   "minInstallTimeMs": 2522,
   "maxInstallTimeMs": 5487,
   "coldBuildTime": {
-    "avgMs": 8550,
-    "minMs": 8135,
-    "maxMs": 9890
+    "avgMs": 8249.6,
+    "minMs": 8026,
+    "maxMs": 8942
   },
   "warmBuildTime": {
-    "avgMs": 8191.8,
-    "minMs": 8134,
-    "maxMs": 8258
+    "avgMs": 8131,
+    "minMs": 8054,
+    "maxMs": 8230
   },
   "installTime": {
-    "avgMs": 2554.8,
-    "minMs": 2406,
-    "maxMs": 2739
+    "avgMs": 2568,
+    "minMs": 2423,
+    "maxMs": 2836
   },
   "order": 8,
   "duplicateDependencies": 14,

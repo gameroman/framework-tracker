@@ -1,9 +1,9 @@
 {
-  "timingMeasuredAt": "2026-03-08T00:31:57.171Z",
+  "timingMeasuredAt": "2026-04-02T22:23:20.842Z",
   "runner": "ubuntu-latest",
-  "ssrOpsPerSec": 223,
-  "ssrAvgLatencyMs": 4.485,
-  "ssrSamples": 2230,
+  "ssrOpsPerSec": 351,
+  "ssrAvgLatencyMs": 2.876,
+  "ssrSamples": 3478,
   "ssrBodySizeKb": 181.95,
   "ssrDuplicationFactor": 1
 }

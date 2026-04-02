@@ -3,12 +3,12 @@
   "package": "app-baseline-html",
   "type": "ssr-app",
   "isFocused": false,
-  "ssrOpsPerSec": 706,
-  "ssrAvgLatencyMs": 1.417,
-  "ssrSamples": 7058,
+  "ssrOpsPerSec": 720,
+  "ssrAvgLatencyMs": 1.402,
+  "ssrSamples": 7135,
   "ssrBodySizeKb": 96.81,
   "ssrDuplicationFactor": 1,
   "order": 0,
-  "timingMeasuredAt": "2026-03-08T00:31:57.171Z",
+  "timingMeasuredAt": "2026-04-02T22:23:20.842Z",
   "runner": "ubuntu-latest"
 }
